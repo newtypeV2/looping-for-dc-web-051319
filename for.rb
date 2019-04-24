@@ -1,7 +1,9 @@
 
 def using_for
 	checklist = 1..10
-	#your code here
+	for y in checklist
+	puts y
+	end
 end
 
 
